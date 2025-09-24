@@ -72,6 +72,7 @@ Account No:101
 Name :John Doe
 Balance :5000.0
 
+
 *Note:* This shows creating an account and viewing all accounts. You can run the program to see the full menu-driven interaction.
 
 ---
@@ -80,19 +81,10 @@ Balance :5000.0
 1. Clone the repository:  
    ```bash
    git clone <repository-url>
-Navigate to the project directory:
-
-bash
-Copy code
+2.Navigate to the project directory:
 cd <repository-folder>
-Compile the Java file:
-
-bash
-Copy code
+3.Compile the Java file:
 javac menu.java
-Run the program:
-
-bash
-Copy code
+3.Run the program:
 java menu
 Follow the console menu to manage accounts.
