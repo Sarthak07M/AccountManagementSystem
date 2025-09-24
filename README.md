@@ -82,9 +82,15 @@ Balance :5000.0
    ```bash
    git clone <repository-url>
 2.Navigate to the project directory:
+
 cd <repository-folder>
+
 3.Compile the Java file:
+
 javac menu.java
-3.Run the program:
+
+4.Run the program:
+
 java menu
-Follow the console menu to manage accounts.
+
+5.Follow the console menu to manage accounts.
